@@ -1,2 +1,4 @@
 This is a beautiful story
 line2
+line 4
+line 2
